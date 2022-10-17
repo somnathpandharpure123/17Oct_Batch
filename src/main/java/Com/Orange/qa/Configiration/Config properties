@@ -1,0 +1,6 @@
+URL=https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+User= Admin
+Pass= admin123
+browser = chrome
+Title = OrangeHRM
+Name = Somnath
