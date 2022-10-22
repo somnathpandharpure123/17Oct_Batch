@@ -1,1 +1,0 @@
-# 17Oct_Batch
